@@ -9,6 +9,4 @@ In this Jupyter notebook are examples of how to query common biological and chem
 * PubChem
 * MyGene
 
-\ jrytved
-
 
